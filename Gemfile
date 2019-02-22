@@ -15,6 +15,8 @@ gem 'sqlite3', '~> 1.3.13'
 gem 'puma', '~> 3.7'
 gem 'rspec-rails'
 gem 'factory_bot_rails'
+gem 'rb-readline'
+
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.5'
